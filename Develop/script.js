@@ -2,10 +2,18 @@
 var generateBtn = document.querySelector("#generate");
 
 
+// Add arrays for character type inclusion options
+
 
 // generatePassword funtion 
 function generatePassword() {
+  console.log("Quack, damn you");
 
+  //Prompt user for password length input (8-128 character length)
+
+
+
+  //Add return to output generated password value
 }
 
 //  Character functions
