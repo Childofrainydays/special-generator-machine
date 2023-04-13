@@ -43,6 +43,7 @@ function generatePassword(){
   let useNumbers = confirm("Do you want to include numbers?");
   // 4) Special characters (EX: !,#,@)
   let useSpecial = confirm("Do you want to include special characters?");
+  //Would like to build in a way to assure a special character is included if the user selects to include special characters, but I'm not sure how to do that yet.
   
   const characterPool = [
     // 1) Uppercase
