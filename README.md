@@ -1,5 +1,11 @@
-# 03 JavaScript: Password Generator
+# Password Generator
 
+## Description:
+
+A practical project to practice JavaScript. 
+
+Everyone needs a secure password. 
+Follow the user prompts for password length and character type to generate the password of your dreams.  
 
 
 ## Mock-Up
